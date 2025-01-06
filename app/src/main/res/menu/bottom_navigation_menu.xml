@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item1"
+        android:icon="@drawable/outline_cloud_24"
+        android:title="Current Weather" />
+    <item
+        android:id="@+id/item2"
+        android:icon="@drawable/outline_access_time_24"
+        android:title="Hourly Forecast" />
+    <item
+        android:id="@+id/item3"
+        android:icon="@drawable/outline_settings_24"
+        android:title="Setting" />
+</menu>

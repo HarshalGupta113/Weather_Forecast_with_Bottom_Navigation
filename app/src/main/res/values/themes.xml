@@ -1,0 +1,39 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.WeatherForecast" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <!-- Default App Theme -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryVariant</item>
+        <item name="colorOnPrimary">@color/colorOnPrimary</item>
+        <item name="colorSecondary">@color/colorSecondary</item>
+        <item name="colorOnSecondary">@color/colorOnSecondary</item>
+    </style>
+
+    <!-- Blue Scheme -->
+    <style name="AppTheme.Blue" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/scheme_blue</item>
+        <item name="colorSecondary">@color/scheme_blue</item>
+        <item name="colorSurface">@color/scheme_blue</item>
+        <item name="color">@color/scheme_blue</item>
+        <item name="colorOnSurfaceVariant">@color/scheme_blue</item>
+    </style>
+
+    <!-- Red Scheme -->
+    <style name="AppTheme.Red">
+        <item name="colorPrimary">@color/scheme_red</item>
+        <item name="colorSecondary">@color/scheme_red</item>
+    </style>
+
+    <!-- Green Scheme -->
+    <style name="AppTheme.Green">
+        <item name="colorPrimary">@color/scheme_green</item>
+        <item name="colorSecondary">@color/scheme_green</item>
+    </style>
+
+    <style name="Theme.WeatherForecast" parent="Base.Theme.WeatherForecast" />
+</resources>
