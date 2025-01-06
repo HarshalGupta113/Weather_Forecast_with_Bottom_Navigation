@@ -22,6 +22,10 @@ This is an Android application that provides real-time weather updates based on 
 - **Material Design Components** for modern UI elements
 - **ConstraintLayout** for flexible and responsive layouts
 
+## Download
+[Download the APK](https://drive.google.com/file/d/1bbIIi6VzLztLDBtF2oIR9ArQskjxDOY2/view?usp=sharing)
+
+
 ## Setup and Installation
 
 1. Clone the repository:
