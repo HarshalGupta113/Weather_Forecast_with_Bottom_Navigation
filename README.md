@@ -36,10 +36,9 @@ This is an Android application that provides real-time weather updates based on 
 
 ## Screenshots
 ### Dark Mode
-
-![Screenshot_20250106_191136 (Phone)](https://github.com/user-attachments/assets/8b308891-4b27-49c3-9ea1-766cde4dbe29)
-![Screenshot_20250106_191208](https://github.com/user-attachments/assets/2e3d9a30-5d56-48d0-b685-233b919ade0d)
-![Screenshot_20250106_191229](https://github.com/user-attachments/assets/f0c7327a-e12b-43ce-9f74-66071c6a21b0)
+<img src="https://github.com/user-attachments/assets/8b308891-4b27-49c3-9ea1-766cde4dbe29" alt="Screenshot_20250106_191136 (Phone)" width="300">
+<img src="https://github.com/user-attachments/assets/2e3d9a30-5d56-48d0-b685-233b919ade0d" alt="Screenshot_20250106_191208" width="300">
+<img src="https://github.com/user-attachments/assets/f0c7327a-e12b-43ce-9f74-66071c6a21b0" alt="Screenshot_20250106_191229" width="300">
 
 
 ## Acknowledgements
